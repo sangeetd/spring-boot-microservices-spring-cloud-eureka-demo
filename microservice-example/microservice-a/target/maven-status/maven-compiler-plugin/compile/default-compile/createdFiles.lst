@@ -1,0 +1,6 @@
+com\sangeet\project\controller\service\StudentInfoService.class
+com\sangeet\project\controller\microservicemodels\CourseData.class
+com\sangeet\project\controller\model\StudentData.class
+com\sangeet\project\controller\APIController.class
+com\sangeet\project\MicroserviceAApplication.class
+com\sangeet\project\controller\microservicemodels\CirriculumData.class
