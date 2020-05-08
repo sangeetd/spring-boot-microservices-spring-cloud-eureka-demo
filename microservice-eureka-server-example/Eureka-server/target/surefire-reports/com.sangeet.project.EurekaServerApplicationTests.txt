@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sangeet.project.EurekaServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.326 s - in com.sangeet.project.EurekaServerApplicationTests
