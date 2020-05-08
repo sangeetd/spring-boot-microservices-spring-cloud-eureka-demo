@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.sangeet.project.controller.service.CourseListService;
+import com.sangeet.project.service.CourseListService;
 
 @RestController
 @RequestMapping("/api/b")
