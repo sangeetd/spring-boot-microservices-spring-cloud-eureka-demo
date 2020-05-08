@@ -1,0 +1,4 @@
+com\sangeet\project\service\CirriculumListService.class
+com\sangeet\project\model\CirriculumData.class
+com\sangeet\project\MicroserviceCApplication.class
+com\sangeet\project\controller\APIController.class
